@@ -1,5 +1,8 @@
 _repo: Leven-der-Dieren-Deel-3-Hoofdstuk-5-De-Spinachtigen_61292
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61292-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Brehm, Alfred Edmund
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alfred_Brehm
     - https://nl.wikipedia.org/wiki/Alfred_Brehm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61292#Leven-der-Dieren-Deel-3-Hoofdstuk-5-De-Spinachtigen
 gutenberg_issued: '2020-02-01'
 gutenberg_type: Text
 identifiers:
